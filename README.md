@@ -8,7 +8,7 @@
 </p>
 
 ## # Problem Index
-- [Add quotes to ansible playbook](#add-quotes-to-ansible-playbook)
+- [Add quotes to ansible playbook](#1-add-quotes-to-ansible-playbook)
 - [simple replacements](#2.-simple-replacements)
 - [Satisfy the go linter](#3.-satisfy-the-go-linter)
 - [Plotting some variables in python](#4.-plotting-some-variables-in-python)
@@ -16,7 +16,7 @@
 
 ---
 
-## Add quotes to ansible playbook
+## 1. Add quotes to ansible playbook
 <p align="center"><img src="Resources/Problem01.gif"></p>
 
 ### My Answer
