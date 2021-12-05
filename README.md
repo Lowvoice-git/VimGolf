@@ -8,7 +8,7 @@
 </p>
 
 ## # Problem Index
-- [Add quotes to ansible playbook](#1.-add-quotes-to-ansible-playbook)
+- [Add quotes to ansible playbook](#add-quotes-to-ansible-playbook)
 - [simple replacements](#2.-simple-replacements)
 - [Satisfy the go linter](#3.-satisfy-the-go-linter)
 - [Plotting some variables in python](#4.-plotting-some-variables-in-python)
@@ -16,7 +16,7 @@
 
 ---
 
-## 1. Add quotes to ansible playbook
+## Add quotes to ansible playbook
 <p align="center"><img src="Resources/Problem01.gif"></p>
 
 ### My Answer
@@ -29,7 +29,7 @@ score = 8
 ```
 
 ### Description
-|Index|Command|Description|Input|
+|**Index**|**Command**|**Description**|**Input**|
 |:-:|:-:|:-:|:-:|
 |1|}|현재 문단의 끝|
 |2|%|괄호에 매칭되는 곳으로 이동|
@@ -53,7 +53,7 @@ score = 20
 ```
 
 ### Description
-|Index|Command|Description|Input|
+|**Index**|**Command**|**Description**|**Input**|
 |:-:|:-:|:-:|:-:|
 |1|w|오른쪽 단어의 처음 부분으로 이동|
 |2|cw|단어 변경|vim 입력|
@@ -82,7 +82,7 @@ score = 20
 ```
 
 ### Description
-|Index|Command|Description|Input|
+|**Index**|**Command**|**Description**|**Input**|
 |:-:|:-:|:-:|:-:|
 |1|G|파일의 끝으로 이동|
 |2|qq|q라는 이름의 메크로를 생성하고 기록|
@@ -109,7 +109,7 @@ score = 35
 ```
 
 ### Description
-|Index|Command|Description|Input|
+|**Index**|**Command**|**Description**|**Input**|
 |:-:|:-:|:-:|:-:|
 |1|9w|오른쪽 9번째 단어의 처음 부분으로 이동|
 |2|Ctrl+V|다중 선택 모드|
@@ -149,7 +149,7 @@ score = 20
 ```
 
 ### Description
-|Index|Command|Description|Input|
+|**Index**|**Command**|**Description**|**Input**|
 |:-:|:-:|:-:|:-:|
 |1|/"|아래줄 순서로 검색, " 검색 및 이동|
 |2|Ctrl+m|Enter 키|
