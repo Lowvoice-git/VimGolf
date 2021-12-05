@@ -8,11 +8,11 @@
 </p>
 
 ## # Problem Index
-- [Add quotes to ansible playbook](#1.-Add-quotes-to-ansible-playbook)
+- [Add quotes to ansible playbook](#1.-add-quotes-to-ansible-playbook)
 - [simple replacements](#2.-simple-replacements)
-- [Satisfy the go linter](#3.-Satisfy-the-go-linter)
-- [Plotting some variables in python](#4.-Plotting-some-variables-in-python)
-- [Python dataclasses](#5.-Python-dataclasses)
+- [Satisfy the go linter](#3.-satisfy-the-go-linter)
+- [Plotting some variables in python](#4.-plotting-some-variables-in-python)
+- [Python dataclasses](#5.-python-dataclasses)
 
 ---
 
